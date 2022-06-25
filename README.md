@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jafo19D
-- 👀 I’m interested in Python..
+- 👀 I’m interested in Python and SAS
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shibusawa@gmail.com
